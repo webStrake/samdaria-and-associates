@@ -2,7 +2,7 @@ const slides = [
     {
       img: require('../../utils/images/slider1.webp'),
       quote:"Dedication. ",
-      text:"we are Samdaria..."
+      text:"we are Samdaria and associates..."
     },
     {
       img: require('../../utils/images/slider2.webp'),
