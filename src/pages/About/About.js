@@ -9,9 +9,9 @@ function About() {
 
       <div className="aboutDiv1">
         <section className="aboutSection ">
-          <h3 className="aboutHead">ABOUT THE FOUNDER MR. AKSHAY SAMADARIA</h3>
+          <h3 className="aboutHead">ABOUT THE FOUNDER MR. AKSHAYY SAMADARIA</h3>
           <p>
-            I, Akshay Samadaria, founder of Samdaria & Associates, a sole
+            I, Akshayy Samadaria, founder of Samdarria & Associates, a sole
             proprietorship law office concern. I have perused my Ll.B from
             Karnataka Lingayat Education Society’s Law College, Bangalore in
             2015 and right after my course, I got enrolled asan Advocate under
@@ -99,12 +99,12 @@ function About() {
           <br></br>
           <br></br>
           <p>
-            I have built-up my own private and independent office since 2020,
+            We have built-up our own private and independent office since 2020,
             located at Egmore, Chennai, which is very near to the Hon’ble Madras
             High Court and is accessible to various Hon’ble Courts, Forums and
-            Tribunals in the City. I have equipped my office with all various
-            necessary things and materials which will in turn help me in saving
-            my time and satisfy my clients by giving legal aids and
+            Tribunals in the City. We have equipped my office with all various
+            necessary things and materials which will in turn help us in saving
+            our time and satisfy our clients by giving legal aids and
             consultation.
           </p>
         </section>
@@ -114,9 +114,9 @@ function About() {
         <TbBulb className="motiveIcon" />
         <h3 className="aboutHead">MOTIVE</h3>
         <p>
-          In providing legal assistance and aid to my clients by whatever means
+          In providing legal assistance and aid to our clients by whatever means
           possible irrespective of their backgrounds, caste and religion by
-          representing my clients before various Hon’ble Courts, Tribunals,
+          representing our clients before various Hon’ble Courts, Tribunals,
           Forums and assisting clients in various transactions such as real
           estate and commercial.
         </p>
@@ -155,7 +155,7 @@ Pursaiwakkam, Chennai – 600 084.
     </div>
 </section>
 <div className="bottomDetail">
-<div><p className="detail-para bottomPara">Email: <a href="mailto:akshay@samdariaandassociates.com">akshay@samdariaandassociates.com</a></p></div>
+<div><p className="detail-para bottomPara">Email: <a href="mailto:akshayy@samdariaandassociates.com">akshayy@samdariaandassociates.com</a></p></div>
 <div><p className="detail-para bottomPara">Phone: <a href="tel:9952006141">9952006141</a></p></div>
 <div><p className="detail-para bottomPara">Place: <a>Chennai</a></p></div>
 </div>

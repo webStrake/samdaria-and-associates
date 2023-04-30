@@ -59,7 +59,7 @@ function Footer() {
           <div className="footerInfo">
             <FaMapMarkerAlt className="footerIcon" />
             <p>
-              <b>AKSHAY SAMADARIA</b>
+              <b>AKSHAYY SAMADARIA</b>
               <br></br>
               Office No.20, Ground Floor, Prince Plaza, Door No.46, Pantheon
               Road, Egmore, Chennai – 600 008.
@@ -73,7 +73,7 @@ function Footer() {
 
           <div  className="footerInfo">
             <AiTwotoneMail className="footerIcon" />
-            <p>akshay@samdariaandassociates.com</p>
+            <p>akshayy@samdariaandassociates.com</p>
           </div>
         </div>
       
@@ -81,7 +81,7 @@ function Footer() {
 
       </div>
       <div className="footerEnd">
-<h3>Copyright © 2023 samdaria and associates | All Rights Reserved.</h3>
+<h3>Copyright © 2023 samdarria & associates | All Rights Reserved.</h3>
       </div>
     </>
   );
