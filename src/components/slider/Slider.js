@@ -74,7 +74,7 @@ class CitySlider extends React.Component {
                       <span>{l}</span>
                     ))}
                   </h2>
-                  <p className="slider__slide-readmore">{slide.text}</p>
+                  {/* <p className="slider__slide-readmore">{slide.text}</p> */}
                 </div>
                 <div className="slider__slide-parts">
                   {[...Array(this.imageParts).fill()].map((x, i) => (

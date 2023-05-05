@@ -162,14 +162,14 @@ function Field() {
           <section className="fieldSection" id="Alternate_dispute_resolutions_system">
             <h3 className="fieldHead">ALTERNATE DISPUTE RESOLUTIONS SYSTEM</h3>
             <p className="fieldPara">
-              I have successfully actively participated in several Arbitration
+              We have successfully actively participated in several Arbitration
               Proceedings, such as sending notices, filing applications,
               appointment of arbitrator/s and petitions, advancing arguments
               before Madras High Court and Arbitration Tribunal to expedite the
               Arbitration Proceedings.
             </p>
             <p className="fieldPara">
-              I have consistently participated, negotiated and have successfully
+            We have consistently participated, negotiated and have successfully
               settled several matters by referring to the Mediation Centers, Lok
               Adalat conducted in the Hon’ble Courts.
             </p>
@@ -182,7 +182,7 @@ function Field() {
               The Negotiable Instruments Act 1881.
             </p>
             <p className="fieldPara">
-              I have extensively handled Private Complaints filed under section
+            We have extensively handled Private Complaints filed under section
               200 for the offences Section 138 of the Negotiable Instruments
               Act, 1881.
             </p>
@@ -212,20 +212,20 @@ function Field() {
           <section className="fieldSection" id="real_estate_transaction">
             <h3 className="fieldHead">REAL ESTATE TRANSACTIONS</h3>
             <p className="fieldPara">
-              I have a diverse real estate practice which covers all aspects of
+            We have a diverse real estate practice which covers all aspects of
               the Real Estate Laws prevailing in the territory.
             </p>
             <p className="fieldPara">
-              I have drafted numerous legal opinions, real estate due diligence,
+            We have drafted numerous legal opinions, real estate due diligence,
               deeds, receipts and agreements relating to Immovable Property such
               as Sale, Lease, Development Agreement, Joint-Development
               Agreement, Memorandum of Deposit of Title Deeds, Receipts and
-              furthermore, I have extensively participated and assisted in
+              furthermore, We have extensively participated and assisted in
               having the deeds, receipts and agreements registered before the
               appropriate jurisdictional registrar offices.
             </p>
             <p className="fieldPara">
-              I have also obtained various certificates and letters from various
+            We have also obtained various certificates and letters from various
               authorities relating to real estate.
             </p>
           </section>

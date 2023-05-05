@@ -207,21 +207,36 @@ function Home() {
         <h1 className="infoHead">WHY US?</h1>
         <div className="infoContent">
           <div className="infoCard">
-            <p><CountUp start={0} end={20} duration={3} enableScrollSpy={true} startOnMount={false}></CountUp>+</p>
-            <h3>Legal Experience</h3>
+            <p><CountUp start={0} end={280} duration={3} enableScrollSpy={true} startOnMount={false}></CountUp> crores+</p>
+            <h3>Real Estate Transactions</h3>
           </div>
           <div className="infoCard">
-            <p><CountUp start={0} end={500} duration={3} enableScrollSpy={true} startOnMount={false}></CountUp>+</p>
-            <h3>Successful Cases</h3>
+            <p><CountUp start={0} end={35} duration={3} enableScrollSpy={true} startOnMount={false}></CountUp>+</p>
+            <h3>Litigation Disposed successfully</h3>
           </div>
           <div className="infoCard">
-            <p><CountUp start={0} end={200} duration={3} enableScrollSpy={true} startOnMount={false}></CountUp>+</p>
-          <h3>Legal Associates</h3>
+            <p><CountUp start={0} end={55} duration={3} enableScrollSpy={true} startOnMount={false}></CountUp>+</p>
+          <h3>Litigation Representation</h3>
 
           </div>
           <div className="infoCard">
-            <p><CountUp start={0} end={2000} duration={3} enableScrollSpy={true} startOnMount={false}></CountUp>+</p>
-          <h3>Case Filed</h3>
+            <p><CountUp start={0} end={700} duration={3} enableScrollSpy={true} startOnMount={false}></CountUp> crores+</p>
+          <h3>Arbitration Proceedings Disposed Successfully</h3>
+
+          </div>
+          <div className="infoCard">
+            <p><CountUp start={0} end={4} duration={3} enableScrollSpy={true} startOnMount={false}></CountUp>+</p>
+          <h3>Trademark Registered</h3>
+
+          </div>
+          <div className="infoCard">
+            <p><CountUp start={0} end={16} duration={3} enableScrollSpy={true} startOnMount={false}></CountUp>+</p>
+          <h3>Trademark Filed</h3>
+
+          </div>
+          <div className="infoCard">
+            <p><CountUp start={0} end={11} duration={3} enableScrollSpy={true} startOnMount={false}></CountUp>+</p>
+          <h3>Trademark Pending</h3>
 
           </div>
         </div>
