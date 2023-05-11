@@ -13,10 +13,10 @@ function Footer() {
         <h3>Quick Links</h3>
           <ul>
             <li>
-              <Link className="footerLink" to="/field">Home</Link>
+              <Link className="footerLink" to="/">Home</Link>
             </li>
             <li>
-              <Link className="footerLink" to="/field">About</Link>
+              <Link className="footerLink" to="/about">About</Link>
             </li>
             <li>
               <Link className="footerLink" to="/field">Practise Field</Link>

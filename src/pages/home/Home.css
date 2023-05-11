@@ -502,16 +502,16 @@ margin-top: 30px;
 
 @media screen and (max-width: 486px) {
     .modalContent{
-        max-width: 400px;
-        top: 0;
-        left: 0;
+        max-width: 90vw;
+        /* top: 0;
+        left: 0; */
         max-height:100vh ;
-        overflow-y: scroll;
+        /* overflow-y: scroll; */
         margin: auto ;
         box-sizing: border-box;
         margin-top: 20px;
         padding: 30px 20px;
-        transform: translate(0%,0%);
+        /* transform: translate(0%,0%); */
         border: 3px solid #052925;
     }
     .moadalMain{
