@@ -1,7 +1,7 @@
 import React from "react";
 import "./Navbar.css";
 import { gsap } from "gsap";
-import { useRef, useState } from "react";
+import { useRef, useState ,useEffect} from "react";
 import logo from "../../utils/logo/SA Main Logo.png"
 import { Link } from "react-router-dom";
 function Navbar() {
@@ -21,10 +21,25 @@ function Navbar() {
   //     ease:"power2.in"
 
   // });
+  const [navbar, setNavbar] = useState(false)
 
+  const changeBackground = () => {
+    console.log(window.scrollY)
+    if (window.scrollY >= 100) {
+      setNavbar(true)
+    } else {
+      setNavbar(false)
+    }
+  }
+
+  useEffect(() => {
+    changeBackground()
+    // adding the event when scroll change background
+    window.addEventListener("scroll", changeBackground)
+  })
   return (
     <>
-      <div className="navbarMain">
+      <div className={navbar ? "navbarMain opaqueBg" : "navbarMain"} >
         <div>
             <img className="navLogo" src={logo} width={70} height={100} alt="Samdaria & Associates"/>
         </div>
