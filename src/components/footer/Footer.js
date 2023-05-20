@@ -81,7 +81,7 @@ function Footer() {
 
       </div>
       <div className="footerEnd">
-<h3>Copyright © 2023 samdarria & associates | All Rights Reserved.</h3>
+<h3>Copyright © 2023 samdarria & associates | All Rights Reserved. Crafted with ❤️ by <a className="ws-footer" href="http://webstrake.com" target="_blank">webStrake</a></h3>
       </div>
     </>
   );
