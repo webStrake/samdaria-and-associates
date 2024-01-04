@@ -61,7 +61,7 @@ function Home() {
             The current rules of the Bar Council of India restrict / prohibit
             law firms from advertising and soliciting work through communication
             in the public domain. This website has been designed solely for the
-            purposes of dissemination of basic information about Samdaria and
+            purposes of dissemination of basic information about Samdarria and
             Associates, which is made available on the specific request of the
             visitor/user. By clicking on 'AGREE', the visitor acknowledges that
           </p>
@@ -96,7 +96,7 @@ function Home() {
                 warranty, either express or implied;
               </li>
               <li>
-                the contents of this website are the property of Samdaria and
+                the contents of this website are the property of Samdarria and
                 associates and the visitor is not authorised to use any part
                 thereof, with or without adaptation, without the express prior
                 written consent of Samdarria & Associates;
@@ -285,7 +285,7 @@ function Home() {
           <div className="chooseCard">
             <h3>Client Satisfaction</h3>
             <p>
-              Samdaria and associates has a reputation for satisfying its
+              Samdarria and associates has a reputation for satisfying its
               clients and achieving successful case outcomes with minimal
               expenses.
             </p>

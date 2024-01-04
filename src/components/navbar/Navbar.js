@@ -41,7 +41,7 @@ function Navbar() {
     <>
       <div className={navbar ? "navbarMain opaqueBg" : "navbarMain"} >
         <div>
-            <img className="navLogo" src={logo} width={70} height={100} alt="Samdaria & Associates"/>
+            <img className="navLogo" src={logo} width={70} height={100} alt="Samdarria & Associates"/>
         </div>
         <div className="hambur">
           <div
