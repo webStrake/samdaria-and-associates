@@ -99,7 +99,7 @@ function Home() {
                 the contents of this website are the property of Samdaria and
                 associates and the visitor is not authorised to use any part
                 thereof, with or without adaptation, without the express prior
-                written consent of Kochhar & Co.;
+                written consent of Samdarria & Associates;
               </li>
               <li>
                 We uses cookies on this website to improve user experience. By
